@@ -25,7 +25,7 @@ gCodeGenerator produces G code for a circle in a given diameter. The input of th
 The input of the program can be given in the source code. After including the headers, in the part where parameters are declared, RAD variable can be changed according to the requirements of the user.
 
 ## Sample Output
-Output of the program is a text file that contains the G Code of the circle. Output example for the program is;
+Output of the program is a text file that contains the G Code of the circle. Output example for the program when RAD = 10 is;
 
 ```
 G71 G90
